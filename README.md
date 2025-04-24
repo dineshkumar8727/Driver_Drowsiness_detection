@@ -1,13 +1,12 @@
-Driver Drowsiness Detection System
+Hello , 
+Here is my project called Driver Drowsiness Detection System
 This project implements a real-time Driver Drowsiness Detection system using computer vision techniques. It monitors eye and mouth movements to detect signs of fatigue.
 
  Key Features
 Detects faces using dlib and OpenCV
 
 Calculates:
-
 EAR (Eye Aspect Ratio) to detect eye closure
-
 MAR (Mouth Aspect Ratio) to detect yawning
 
 Triggers alerts when drowsiness is detected
